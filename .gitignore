@@ -1,0 +1,5 @@
+*.sw[pon]
+.DS_Store
+*.css
+bower_components
+node_modules
